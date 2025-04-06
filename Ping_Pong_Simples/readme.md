@@ -1,4 +1,4 @@
-# 🏓 Pong Simples
+# 🏓 Ping Pong Simples
 
 Versão minimalista do clássico Pong! Controle a raquete da esquerda e desafie a IA.
 
